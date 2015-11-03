@@ -2114,8 +2114,8 @@ td.submit input[disabled] {
 		line-height: 24px;
 		background: #d9edf7;
 		/*padding: 10px 20px;*/
-		/*border: 1px solid #bce8f1;*/
-		border-radius: 5px;
+		border: 1px solid #bce8f1;
+		/*border-radius: 5px;*/
 		margin-bottom: 25px;
 }
 .course-content .topics .section .summary .no-overflow p {
