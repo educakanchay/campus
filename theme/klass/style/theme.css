@@ -1154,13 +1154,16 @@ h6 {
             box-shadow: none;
 }
 .block .header {
-		background: #fafafa;
+		/*background: #fafafa;*/
+		background: #EF018D;
 		padding: 7px 0;
 		border-bottom: 1px solid #d5d5d5;
 }
 .block .header h2 {
-		font-weight: normal;
-		color: #c02424;
+		/*font-weight: normal;*/
+		font-weight: bold;
+		/*color: #c02424;*/
+		color: #FFFFFF;
 		text-shadow: none;
 		text-transform: none;
 }
