@@ -3,6 +3,17 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ #site-news-forum h2, #frontpage-course-list h2, #frontpage-category-names h2, #frontpage-category-combo h2 {
+    margin-bottom: 9px;
+    background: #04C55C;
+    color: #FFFFFF;
+    border-bottom: 3px solid #007234;
+    border-radius: 5px;
+    padding: 2px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
  .page-context-header {
     overflow: hidden;
     background: rgb(171, 239, 255);
