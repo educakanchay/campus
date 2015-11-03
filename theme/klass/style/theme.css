@@ -1,8 +1,12 @@
 /*
- * @author    Nephzat Dev Team, nephzat.com
- * @package   theme_klass
+ * @author    Hilario Guzman
+ * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ .course-content ul.topics li.section .summary {
+    margin-left: 0px;
+}
+ 
 .block_navigation .block_tree .tree_item {
     margin: 4px 0;
 }
