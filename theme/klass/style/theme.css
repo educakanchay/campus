@@ -2225,8 +2225,9 @@ table.flexible,
 		color: #525252;
 }
 .no-overflow > .generaltable {
-		margin-bottom: 20px;
-		background: #007234;
+		margin-bottom: 2px;
+		/*background: #007234;*/
+		background: #FFFFCC;
 }
 table.flexible thead th,
 .generaltable thead th,
