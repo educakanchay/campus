@@ -65,7 +65,7 @@ th#itemname {
     border-top: none;
 }
 .path-grade-report-user .user-grade.generaltable .leveleven {
-    /* background-color: rgba(232, 41, 41, 0); */
+    background-color:none;
 }
 table.flexible th, .generaltable th, table.flexible td, .generaltable td {
     line-height: 10px;
