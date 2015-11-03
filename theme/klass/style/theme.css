@@ -2113,8 +2113,8 @@ td.submit input[disabled] {
 		color: #3a87ad;
 		line-height: 24px;
 		background: #d9edf7;
-		padding: 10px 20px;
-		border: 1px solid #bce8f1;
+		/*padding: 10px 20px;*/
+		/*border: 1px solid #bce8f1;*/
 		border-radius: 5px;
 		margin-bottom: 25px;
 }
