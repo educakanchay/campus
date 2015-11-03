@@ -3,6 +3,17 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ /*código de presentacion public*/
+ div#yui_3_17_2_2_1446573137451_128 {
+    background-color: #007234;
+}
+
+/*Vista de cursos*/
+div#frontpage-course-list {
+    background: #bad80a;
+    padding: 5px;
+}
+ /**/
  .course-content ul.topics li.section .summary {
     margin-left: 0px;
 }
@@ -1266,7 +1277,7 @@ h6 {
 }
 #page-header {
 		margin-right: -20px;
-		margin-bottom: 27px;
+		margin-bottom: 1px;
 		margin-left: -20px;
 }
 #page-header h1 {
@@ -2512,7 +2523,7 @@ padding: 4px 8px;
 }
 .fp-site-customdesc {
 		background: #fff;
-		padding: 10px 0 25px;
+		/*padding: 10px 0 25px;*/
 		text-align: center;
 }
 .fp-site-customdesc h2 {
