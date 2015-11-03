@@ -3,6 +3,262 @@
  * @package   theme_klass
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+.block_navigation .block_tree .tree_item {
+    margin: 4px 0;
+}
+
+/**Calificaciones**/
+.path-grade-report-user .user-grade.generaltable .leveleven {
+    padding: 4px;
+}
+th#cat_1_2 {
+    padding: 1px;
+}
+th#itemname {
+    line-height: 21px;
+    padding: 5px;
+    border-top: none;
+}
+.path-grade-report-user .user-grade.generaltable .leveleven {
+    /* background-color: rgba(232, 41, 41, 0); */
+}
+table.flexible th, .generaltable th, table.flexible td, .generaltable td {
+    line-height: 10px;
+    padding: 5px;
+    /* border-top: 1px; */
+}
+.no-overflow>.generaltable {
+    margin-bottom: 20px;
+    font-size: 1em;
+}
+/**end Calificaciones**/
+.carousel-overlay-content .content-wrap .read-more:hover {
+    background: #00AF00;
+    border-bottom: 4px solid #015D01;
+}
+/**Logo de cursos**/
+div#banertext {
+    color: white;
+    font-size: 15px;
+    padding: 3px;
+    background: rgb(0, 75, 132);
+    border-bottom: 3px solid #043156;
+}
+img#imgeb {
+    width: 7%;
+    padding: 2px;
+}
+.body-baner {
+    background-image: url("http://educacion.be/campus/images/tecnologia.jpg");
+}
+/**Logo end cursos*/
+.block_navigation .block_tree .type_activity > p.tree_item.branch.hasicon.active_tree_node, .block_navigation .block_tree .tree_item {
+    margin: 2px 0;
+}
+.block_navigation .block_tree .type_activity > p.tree_item.branch.hasicon.active_tree_node, .block_navigation .block_tree .tree_item {
+    margin: 2px 0;
+}
+.course-content .single-section .section-navigation .mdl-left:hover {
+    border-bottom: 3px solid #CACA04;
+    background-color: rgb(255, 255, 0);
+}
+.course-content .single-section .section-navigation .mdl-right:hover {
+    background-color: yellow;
+    border-bottom: 3px solid #CACA04;
+}
+.course-content .single-section .section-navigation .mdl-left {
+    /* float: left; */
+    /* margin-right: 1em; */
+    /* font-weight: normal; */
+    float: left;
+    margin-right: 1em;
+    border-bottom: 3px solid #0184B3;
+    border-radius: 4px;
+    padding: 5px;
+    font-weight: bold;
+    color: rgb(255, 254, 254);
+    background-color: rgb(157, 227, 252);
+    margin-bottom: 4px;
+}
+.course-content .single-section .section-navigation .mdl-right {
+    /* float: right; */
+    /* margin-left: 1em; */
+    /* font-weight: normal; */
+    float: right;
+    margin-left: 1em;
+    border-bottom: 3px solid #0184B3;
+    border-radius: 4px;
+    padding: 5px;
+    font-weight: bold;
+    color: rgb(255, 254, 254);
+    background-color: rgb(157, 227, 252);
+    margin-bottom: 4px;
+}
+/*****/
+
+a:hover, a:focus {
+    color: #003d5c;
+    text-decoration: none;
+}
+.course-content .section-summary .section-summary-activities .activity-count {
+    display: inline-block;
+    margin: 3px;
+    font-size: 11.9px;
+    color: #b36929;
+    white-space: nowrap;
+    background: #ffc33e;
+    border-radius: 3px 3px 3px 3px;
+    padding: 0px 2px 0px 2px;
+    border-bottom: 2px solid #f39c12;
+    font-weight: bold;
+}
+/**Cursos fronten**/
+.cursos-primary {
+    background: #2E2872;
+    color: #fff;
+    padding: 0 1em;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+}
+.cursos-primary-corel {
+    background: #6DBE4F;
+    color: #fff;
+    padding: 0 1em;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+}
+.adobe-photoshop {
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+}
+.cursos-secundary {
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    -o-box-flex: 1;
+    box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    -webkit-box-pack: center;
+    -moz-box-pack: center;
+    -o-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    -o-box-orient: vertical;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 1em;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.4);
+    text-decoration: none;
+}
+.cursos-secundary {
+    background-image: url(http://educacion.be/campus/images/Adobe-photosho-trans);
+}
+p.Career-textHeader {
+    margin-top: 5px;
+}
+
+h3.Career-name {
+    font-size: 18px;
+    text-transform: uppercase;
+    line-height: 1;
+    text-decoration: none;
+    background: none;
+    color: white;
+    border-left: none;
+    border-right: none;
+    text-align: left;
+}
+/*End**/
+
+
+.course-content .section-summary .summarytext {
+    margin: 0px 0px 0px 0px;
+}
+.course-content .section-summary .section-title {
+    margin: 0px 0px 0px 0px;
+}
+
+.fp-site-customdesc p a {
+    /* text-decoration: underline; */
+}
+.usermenu .moodle-actionmenu .toggle-display .userbutton .avatars .avatar, .usermenu .moodle-actionmenu .toggle-display .userbutton .avatars img {
+    display: block;
+    border-radius: 20px;
+}
+img {
+    vertical-align: middle;
+    border: 0;
+    max-width: 100%;
+}
+.fp-coursebox .readmore a:hover, .fp-coursebox .readmore a:focus {
+    text-decoration: none;
+background: #7DCD40;
+}
+.fp-coursebox .readmore a:hover, .fp-coursebox .readmore a:focus {
+    /* background: #0073a5; */
+    /* text-decoration: none; */
+    /* padding: 4px 8px; */
+    /* display: inline-block; */
+    /* background-image: linear-gradient(to bottom,#ff4842,#ff4842); */
+    /* background-repeat: repeat-x; */
+    /* border: 1px solid #ff4842; */
+    /* border-color: #ff4842 #ff4842 #ff4842; */
+    /* border-bottom: 4px solid #d0272a; */
+    /* border-radius: 5px; */
+    /* text-shadow: none; */
+    /* color: white; */
+    text-decoration: none;
+    background-position: 0 -30px;
+    -webkit-transition: background-position .1s linear;
+    -moz-transition: background-position .1s linear;
+    -o-transition: background-position .1s linear;
+    transition: background-position .1s linear;
+    background-color: #7dcd40;
+    border-bottom: 4px solid #7dcd40;
+    border-color: #7dcd40 #7dcd40 #6dae33;
+    color: #FFF;
+background: #7DCD40;
+}
+
+.block_navigation .block_tree .type_activity > p.tree_item.branch.hasicon.active_tree_node, .block_navigation .block_tree .tree_item {
+    margin: 6px 0;
+a:hover, a:focus {
+    text-decoration: none;
+}
+a:hover, a:focus {
+    color: #003d5c;
+    text-decoration: none;
+}
+}
+html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    background-color: #0078d7;
+}
+
 @font-face {
     font-family: 'arvoregular';
     src: url('[[setting:fontwww]]arvo-regular_201-webfont.eot');
@@ -15,13 +271,24 @@
     font-style: normal;
 
 }
+.container-fluid {
+    /* max-width: 1680px; */
+    margin: 0 auto;
+    max-width: 1170px;
+    /*background-color: white;*/
+}
 body {
-		font-family: Arial, Helvetica, sans-serif;
+		/*font-family: Arial, Helvetica, sans-serif;*/
+		font-family: 'Roboto Slab', serif;
 		color: #656565;
 		padding-top: 0;
+		max-width: 1170px;
+    		margin: auto;
+		font-size: 13px;
 }
 body#page-site-index {
-		background: #f2f2f2;
+		/*background: #f2f2f2;*/
+		/*background-color: #0078d7;*/
 }
 a {
 		color: #009fe5;
@@ -35,16 +302,29 @@ a:focus {
 }
 h1, h2, h3, h4, h5, h6 {
 		font-weight: normal;
-		font-family: arvoregular, Arial, Helvetica, sans-serif;
+		/*font-family: arvoregular, Arial, Helvetica, sans-serif;*/
 		color: #c02424;
 }
 h1 {
 }
 h2 {
-		font-size: 28px;
+		font-size: 23px;
+}
+ul.weeks h3.sectionname {
+    white-space: nowrap;
+    white-space: normal;
 }
 h3 {
-		font-size: 22px;
+    font-size: 1.4em;
+    text-align: center;
+    border-bottom: 0px solid #00B9FF;
+    background: #8CDBF9;
+    border-left: 10px solid #00B9FF;
+    border-right: 10px solid #28B779;
+    line-height: 250%;
+    font-weight: bold;
+    color: #0092CA;
+    margin: 1px 0;
 }
 h4 {
 		font-size: 21px;
@@ -84,8 +364,10 @@ h6 {
 }
 #header .header-main {}
 #header .header-main .header-main-content {
-		padding: 15px 0 0;
-		background: #009fe5;
+		    padding: 10px 0 0;
+    background: #009fe5;
+    background-image: url("http://educacion.be/campus/images/tecnologia.jpg");
+    background-size: cover;
 }
 #logo {
 		width: 183px;
@@ -541,18 +823,23 @@ h6 {
 		text-align: center;
 }
 .carousel-overlay-content .content-wrap h2 {
-		font-family: arvoregular, Arial, Helvetica, sans-serif;
-		color: #fff;
-		background: rgba(0, 0, 0, 0.5);
-		margin: 0;
-		display: inline-block;
+		font-family: arvoregular,Arial,Helvetica,sans-serif;
+    		color: #fff;
+    		background: rgba(0, 0, 0, 0.5);
+    		margin: 0;
+    		display: inline-block;
+    		border-radius: 5px;
+    		margin-bottom: 2px;
 }
 .carousel-overlay-content .content-wrap .read-more {
-		font-family: arvoregular, Arial, Helvetica, sans-serif;
-		color: #fff;
-		background: #c02424;
-		display: inline-block;
-		text-transform: uppercase;
+		font-family: arvoregular,Arial,Helvetica,sans-serif; */
+    		color: #fff;
+    		background: #c02424;
+    		display: inline-block;
+    		text-transform: uppercase;
+    		border-radius: 5px;
+    		border-bottom: 4px solid #690101;
+		color: white;
 }
 @media (max-width: 767px) {
 		.carousel-control {
@@ -829,7 +1116,7 @@ h6 {
 }
 .block .header {
 		background: #fafafa;
-		padding: 13px 0;
+		padding: 7px 0;
 		border-bottom: 1px solid #d5d5d5;
 }
 .block .header h2 {
@@ -858,10 +1145,11 @@ h6 {
 		margin: 0;
 }
 .block .content h3 {
-		font-weight: normal;
-		color: #c02424;
-		padding-left: 0;
-		text-transform: none;
+		font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 0;
+    /* text-transform: none; */
+    text-shadow: none;
 }
 .block .content a {
 		color: #656565;
@@ -877,7 +1165,7 @@ h6 {
 		margin: 15px 0;
 }
 .block_settings .block_tree .tree_item {
-		margin: 15px 0;
+		margin: 6px 0;
 }
 .block_navigation .block_tree li.item_with_icon > p img,
 .block_navigation .block_tree .type_activity > p.tree_item.active_tree_node img,
@@ -1100,7 +1388,7 @@ legend + * {
 		margin-bottom: 0;
 }
 label {
-		font-size: 16px;
+		/*font-size: 16px;*/
 		color: #525252;
 }
 #region-main .mform:not(.unresponsive) .fitem .fitemtitle label {
@@ -2157,11 +2445,22 @@ table#permissions tbody tr:hover > th {
 		text-align: center;
 }
 .fp-coursebox .readmore a {
-		color: #fff;
-		line-height: 28px;
-		background: #009fe5;
-		padding: 0 10px;
-		display: inline-block;
+		/*color: #fff;*/
+		/*line-height: 28px;*/
+		/*background: #009fe5;*/
+		/*padding: 0 10px;*/
+		/*display: inline-block;*/
+background: #FF4842;
+padding: 4px 8px;
+    display: inline-block;
+    background-image: linear-gradient(to bottom,#ff4842,#ff4842);
+    background-repeat: repeat-x;
+    border: 1px solid #ff4842;
+    border-color: #ff4842 #ff4842 #ff4842;
+    border-bottom: 4px solid #d0272a;
+    border-radius: 5px;
+    text-shadow: none;
+    color: white;
 }
 .fp-coursebox .readmore a i {
 		margin-left: 5px;
@@ -2191,11 +2490,22 @@ table#permissions tbody tr:hover > th {
 }
 .fp-site-customdesc h2 {
 		margin-bottom: 2px;
+    font-size: 30px;
+    font-family: 'Lato',sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #004B84;
+    border-radius: 2px;
+    border-bottom: 5px solid #012948;
 }
 .fp-site-customdesc p {
-		line-height: 22px;
-		color: #525252;
-		margin-bottom: 0;
+		        line-height: 18px;
+    			color: #27B677;
+    			margin-bottom: 0;
+    			font-size: 1.1em;
+   			font-weight: bold;
+   			/* background: #91FF00; */
 }
 .fp-site-customdesc p a {
 		text-decoration: underline;
@@ -2214,4 +2524,4 @@ table#permissions tbody tr:hover > th {
 .dir-ltr .fp-site-customdesc p a span:after,
 .dir-rtl .fp-site-customdesc p a span:before {
 		content: " ";
-}
+}			
