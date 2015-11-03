@@ -2494,7 +2494,7 @@ padding: 4px 8px;
 }
 .fp-coursebox .readmore a:hover,
 .fp-coursebox .readmore a:focus {
-		background: #0073a5;
+		/*background: #0073a5;*/
 		text-decoration: none;
 }
 @media (max-width: 767px) {
