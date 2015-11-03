@@ -3,6 +3,12 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ .page-context-header {
+    overflow: hidden;
+    background: rgb(171, 239, 255);
+    margin-bottom: 2px;
+    padding: 5px;
+}
  @media (min-width: 1200px)
 [class*="span"] {
     float: left;
