@@ -256,6 +256,7 @@ img {
     vertical-align: middle;
     border: 0;
     max-width: 100%;
+    border-radius: 50px;
 }
 .fp-coursebox .readmore a:hover, .fp-coursebox .readmore a:focus {
     text-decoration: none;
