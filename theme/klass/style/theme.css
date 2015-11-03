@@ -2228,6 +2228,8 @@ table.flexible,
 		margin-bottom: 2px;
 		/*background: #007234;*/
 		background: #FFFFCC;
+		color: orange;
+    		font-weight: bold;
 }
 table.flexible thead th,
 .generaltable thead th,
