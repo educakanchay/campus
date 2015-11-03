@@ -349,7 +349,8 @@ a:focus {
 h1, h2, h3, h4, h5, h6 {
 		font-weight: normal;
 		/*font-family: arvoregular, Arial, Helvetica, sans-serif;*/
-		color: #c02424;
+		/*color: #c02424;*/
+		color:red;
 }
 h1 {
 }
