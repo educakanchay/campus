@@ -2107,7 +2107,7 @@ td.submit input[disabled] {
 		border-bottom: 1px solid #d5d5d5;
 }
 .course-content ul li.section.main .section li.activity {
-		padding-bottom: 10px;
+		/*padding-bottom: 10px;*/
 }
 .course-content .topics .section .summary .no-overflow {
 		color: #3a87ad;
@@ -2124,9 +2124,9 @@ td.submit input[disabled] {
 		margin-bottom: 0;
 }
 .course-content .topics .section .activity .activityinstance a {
-		font-size: 18px;
-		font-family: arvoregular, Arial, Helvetica, sans-serif;
-		color: #656565;
+		/*font-size: 18px;*/
+		/*font-family: arvoregular, Arial, Helvetica, sans-serif;*/
+		color: #00B9FF;
 		line-height: 24px;
 }
 .course-content .topics .section .activity .activityinstance a img {
