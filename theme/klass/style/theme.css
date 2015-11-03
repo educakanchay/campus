@@ -1464,12 +1464,14 @@ input[type="color"],
 	    border-color: rgba(45, 181, 251, 0.64);
 	        border-radius: 5px;
 		/*color: #313131;*/
-		border-color: #cbcbcb;
+		/*border-color: #cbcbcb;*/
 		border-radius: 0;
 		-webkit-box-shadow: none;
        -moz-box-shadow: none;
             box-shadow: none;
 		box-sizing: border-box;
+		    border-radius: 5px;
+		    /*border-color: rgba(37, 167, 249, 0.84);*/
 }
 select {
 		height: 40px;
