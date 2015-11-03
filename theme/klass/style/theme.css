@@ -1563,12 +1563,22 @@ input[type="reset"][disabled],
 .submit.buttons input[name="cancel"]:focus,
 #notice .singlebutton + .singlebutton input:active,
 .submit.buttons input[name="cancel"]:active {
-		color: #fff;
-		background: #0073a5;
-		-webkit-box-shadow: none;
-       -moz-box-shadow: none;
-        		box-shadow: none;
-		outline: 0;
+	/*	color: #fff;*/
+	/*	background: #0073a5;*/
+	/*	-webkit-box-shadow: none;*/
+      /* -moz-box-shadow: none;*/
+        	/*	box-shadow: none;*/
+		/*outline: 0;*/
+		text-decoration: none;
+    background-position: 0 -30px;
+    -webkit-transition: background-position .1s linear;
+    -moz-transition: background-position .1s linear;
+    -o-transition: background-position .1s linear;
+    transition: background-position .1s linear;
+    background-color: #7dcd40;
+    border-bottom: 4px solid #7dcd40;
+    border-color: #7dcd40 #7dcd40 #6dae33;
+    color: #FFF;
 }
 table#form td.submit,
 .form-buttons,
