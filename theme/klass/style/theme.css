@@ -4,6 +4,10 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
  /*código de presentacion public*/
+ div#yui_3_17_2_2_1446582403213_119 {
+    background: none;
+}
+ 
  @media (min-width: 1200px)
 .row-fluid [class*="span"]:first-child {
     margin-left: 0;
