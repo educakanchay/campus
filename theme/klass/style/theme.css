@@ -3,6 +3,12 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ /*códigos inscritos*/
+ div#present {
+    background: #007234;
+}
+ /**/
+ 
  /*código de presentacion public*/
  div#yui_3_17_2_2_1446582403213_119 {
     background: none;
