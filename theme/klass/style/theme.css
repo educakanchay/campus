@@ -1642,7 +1642,7 @@ input#id_submitbutton[disabled],
 input#id_submitbutton2[disabled],
 .path-admin .buttons input[type="submit"][disabled],
 td.submit input[disabled] {
-		background: #0073a5;
+		/*background: #0073a5;*/
 }
 .dir-rtl input[name="searchwikicontent"] + input[type="submit"],
 .dir-rtl select + input[type="submit"],
