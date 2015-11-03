@@ -2304,7 +2304,8 @@ form#movecourses table tbody > tr:nth-child(2n+1) > th,
 .forumheaderlist tbody > tr:nth-child(2n+1) > th,
 table.flexible tbody > tr:nth-child(2n+1) > th,
 .generaltable tbody > tr:nth-child(2n+1) > th {
-		background: #f7f7f7;
+		/*background: #f7f7f7;*/
+		background: #C5F588;
 }
 .user-enroller-panel .uep-search-results .users tbody tr:hover > td,
 .user-enroller-panel .uep-search-results .cohorts tbody tr:hover > td,
