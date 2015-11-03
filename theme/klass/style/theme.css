@@ -2191,6 +2191,7 @@ table.flexible,
 }
 .no-overflow > .generaltable {
 		margin-bottom: 20px;
+		background: #007234;
 }
 table.flexible thead th,
 .generaltable thead th,
