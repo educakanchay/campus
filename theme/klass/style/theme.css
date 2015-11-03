@@ -2306,6 +2306,8 @@ table.flexible tbody > tr:nth-child(2n+1) > th,
 .generaltable tbody > tr:nth-child(2n+1) > th {
 		/*background: #f7f7f7;*/
 		background: #C5F588;
+    		color: #01A901;
+    		font-weight: bold;
 }
 .user-enroller-panel .uep-search-results .users tbody tr:hover > td,
 .user-enroller-panel .uep-search-results .cohorts tbody tr:hover > td,
@@ -2326,7 +2328,9 @@ table.flexible tbody tr:hover > th,
 table#modules tbody tr:hover > th,
 table#permissions tbody tr:hover > th {
 		/*background: #f3f3f3;*/
-		    background: #FF87C9;
+		background: #FF87C9;
+    		color: #E60280;
+    		font-weight: bold;
 }
 .path-mod-forum .forumheaderlist thead .header,
 .path-mod-forum .forumheaderlist tbody .discussion td {
