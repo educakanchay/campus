@@ -2325,7 +2325,8 @@ table.flexible tbody tr:hover > th,
 .category_subcategories tbody tr:hover > th,
 table#modules tbody tr:hover > th,
 table#permissions tbody tr:hover > th {
-		background: #f3f3f3;
+		/*background: #f3f3f3;*/
+		    background: #FF87C9;
 }
 .path-mod-forum .forumheaderlist thead .header,
 .path-mod-forum .forumheaderlist tbody .discussion td {
