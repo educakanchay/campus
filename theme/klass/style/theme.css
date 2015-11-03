@@ -1535,7 +1535,7 @@ input#id_submitbutton,
 input#id_submitbutton2,
 .path-admin .buttons input[type="submit"],
 td.submit input {
-		background: #c02424;
+		/*background: #c02424;*/
 		text-shadow: none;
 }
 button:hover, 
