@@ -31,6 +31,7 @@
 div#frontpage-course-list {
     background: #bad80a;
     padding: 5px;
+    margin-top: -11px;
 }
  /**/
  .course-content ul.topics li.section .summary {
