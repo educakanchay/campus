@@ -1485,19 +1485,32 @@ input[type="submit"],
 input[type="reset"],
 #notice .singlebutton + .singlebutton input,
 .submit.buttons input[name="cancel"] {
-		height: 40px;
-		font-family: arvoregular, Arial, Helvetica, sans-serif;
-		color: #fff;
-		line-height: 40px;
-		background: #009fe5;
-		padding: 0 18px;
-		border: 0;
-		border-radius: 0;
-		-webkit-box-shadow: none;
-       -moz-box-shadow: none;
-        		box-shadow: none;
-		text-transform: uppercase;
-		text-shadow: none;
+		/*height: 40px;*/
+	/*	font-family: arvoregular, Arial, Helvetica, sans-serif;*/
+	/*	color: #fff;*/
+	/*	line-height: 40px;*/
+	/*	background: #009fe5;*/
+	/*	padding: 0 18px;*/
+	/*	border: 0;*/
+	/*	border-radius: 0;*/
+	/*	-webkit-box-shadow: none;*/
+    /*   -moz-box-shadow: none;*/
+        	/*	box-shadow: none;*/
+	/*	text-transform: uppercase;*/
+	/*	text-shadow: none;*/
+		    /*text-transform: uppercase;*/
+    text-shadow: none;
+    background-image: -webkit-gradient(linear,0 0,0 100%,from(#ff4842),to(#ff4842));
+    background-image: -webkit-linear-gradient(top,#ff4842,#ff4842);
+    background-image: -o-linear-gradient(top,#FFC33E,#FFC33E);
+    background-image: linear-gradient(to bottom,#ff4842,#ff4842);
+    background-repeat: repeat-x;
+    border: 1px solid #ff4842;
+    border-color: #ff4842 #ff4842 #ff4842;
+    border-bottom: 4px solid #d0272a;
+    border-radius: 5px;
+    text-shadow: none;
+    color: white;
 }
 .dir-rtl button,
 .dir-rtl input.form-submit,
