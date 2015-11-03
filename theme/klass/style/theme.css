@@ -1180,9 +1180,9 @@ h6 {
 }
 .block .header {
 		/*background: #fafafa;*/
-		background: #EF018D;
-		padding: 7px 0;
-		border-bottom: 1px solid #d5d5d5;
+		background: #00b294;
+    		padding: 7px 0;
+    		border-bottom: 1px solid #00B294;
 }
 .block .header h2 {
 		/*font-weight: normal;*/
