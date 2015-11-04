@@ -3,7 +3,11 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ span#maincontent {
+    margin-top: -2px;
+}
  /*Mesajería*/
+
  img.userpicture {
     border-radius: 50px;
 }
@@ -176,13 +180,13 @@ table.flexible th, .generaltable th, table.flexible td, .generaltable td {
 /**Logo de cursos**/
 div#banertext {
     color: white;
-    font-size: 15px;
+    /*font-size: 15px;*/
     padding: 3px;
     background: rgb(0, 75, 132);
     border-bottom: 3px solid #043156;
 }
 img#imgeb {
-    width: 7%;
+    width: 5%;
     padding: 2px;
 }
 .body-baner {
