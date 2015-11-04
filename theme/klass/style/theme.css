@@ -3,6 +3,17 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ /**/
+ .info:hover {
+    background: #FFC33E;
+}
+ .info {
+    background: rgb(248, 176, 249);
+    border-radius: 2px;
+    padding: 2px;
+    font-weight: bold;
+}
+ /**/
  span#maincontent {
     margin-top: -2px;
 }
@@ -238,7 +249,7 @@ img#imgeb {
 /*****/
 
 a:hover, a:focus {
-    color: #003d5c;
+    color: red;
     text-decoration: none;
 }
 .course-content .section-summary .section-summary-activities .activity-count {
@@ -1312,7 +1323,7 @@ h6 {
 		color: #009fe5;
 }
 .block .content a:hover {
-		color: #c02424;
+		color: red;
 }
 .block_navigation .block_tree .type_activity > p.tree_item.branch.hasicon.active_tree_node,
 .block_navigation .block_tree .tree_item {
