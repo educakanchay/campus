@@ -1031,13 +1031,15 @@ h6 {
 		}
 }
 #footer {
-		background: #fff;
+		/*background: #fff;*/
+		    background: #BAD80A;
 		border-top: 5px solid #009fe5;
 		margin: 30px 0 0;
 }
 #footer .footer-main {}
 #footer .footer-main h5 {
-		color: #4e4e4e;
+		/*color: #4e4e4e;*/
+		color: #FFFFFF;
 		text-transform: uppercase;
 }
 #footer .infoarea {
