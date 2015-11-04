@@ -3,6 +3,10 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ .block_online_users .content .list li.listentry .user .userpicture {
+    vertical-align: text-bottom;
+    border-radius: 50px;
+}
  #site-news-forum h2, #frontpage-course-list h2, #frontpage-category-names h2, #frontpage-category-combo h2 {
     margin-bottom: 9px;
     background: #04C55C;
