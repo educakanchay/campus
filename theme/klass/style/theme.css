@@ -3,6 +3,13 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ /*Mesajería*/
+div#newmessageoverlay {
+    background-color: #FFF102;
+    border: 1px solid #E6D902;
+    border-color: #FFF102;
+}
+ /**/
 div#inst4 {
     border-color: white;
 }
