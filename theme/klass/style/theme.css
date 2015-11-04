@@ -1992,13 +1992,13 @@ td.submit input[disabled] {
 		margin: 0 0 20px;
 }
 .loginbox .loginsub.subcontent input[type="submit"] {
-		background: #c02424;
+		/*background: #c02424;*/
 		margin-bottom: 12px;
 }
 .loginbox .loginsub.subcontent input[type="submit"]:hover,
 .loginbox .loginsub.subcontent input[type="submit"]:active,
 .loginbox .loginsub.subcontent input[type="submit"]:focus {
-		background: #0073a5;
+		/*background: #0073a5;*/
 }
 .loginbox .loginpanel .desc {
 		margin: 20px 0;
