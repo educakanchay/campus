@@ -4,6 +4,32 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
  /*Mesajería*/
+div#newmessagetext {
+    color: white;
+    font-weight: bold;
+    background: #01BBF3;
+    padding: 2px;
+    margin-bottom: 5px;
+    border-bottom: 3px solid #0085AD;
+    border-radius: 5px;
+}
+
+a#notificationyes {
+    background: #00B294;
+    border-bottom: 3px solid #03715F;
+    padding: 3px;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+}
+a#notificationno {
+    background: #EF018D;
+    border-radius: 4px;
+    padding: 3px;
+    color: white;
+    font-weight: bold;
+    border-bottom: 3px solid #A70162;
+}
 div#newmessageoverlay {
     background-color: #FFF102;
     border: 1px solid #E6D902;
