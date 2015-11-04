@@ -1068,10 +1068,11 @@ h6 {
 		padding: 4px 0;
 }
 #footer .foot-links ul li a {
-		font-size: 16px;
-		color: #3a3a3a;
-		line-height: 20px;
-		display: inline-block;
+		font-size: 13px;
+    		color: #0078D7;
+    		line-height: 20px;
+    		display: inline-block;
+    		font-weight: bold;
 }
 #footer .foot-links ul li a:hover {
 		color: #c02424;
@@ -1081,9 +1082,10 @@ h6 {
 		margin-bottom: 20px;
 }
 #footer .contact-info p {
-		color: #3a3a3a;
-		line-height: 24px;
-		margin-bottom: 0;
+		color: #006D04;
+    		line-height: 24px;
+    		margin-bottom: 0;
+    		font-weight: bold;
 }
 #footer .contact-info p a {
 		color: #3a3a3a;
