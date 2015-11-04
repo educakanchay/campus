@@ -4,6 +4,10 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
  /*Mesajería*/
+ img.userpicture {
+    border-radius: 50px;
+}
+
 div#newmessagetext {
     color: white;
     font-weight: bold;
