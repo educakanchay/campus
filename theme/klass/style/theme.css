@@ -895,7 +895,12 @@ h6 {
 		background: #f1f1f1;
 }
 .jsenabled .usermenu .moodle-actionmenu > .menubar {
-		margin: 0;
+	margin: 0;
+	font-family: arial,sans-serif;
+    	border-left: 10px solid #E4EA1C;
+    	font-weight: bold;
+    	border-radius: 2px;
+    	background: #2BBF3E none repeat scroll 0% 0%;
 }
 .jsenabled .usermenu .moodle-actionmenu.show .toggle-display {
 		color: #232323;
