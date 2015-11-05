@@ -510,7 +510,8 @@ h6 {
 #header {}
 #header .header-top {
 		min-height: 34px;
-		background: #0073a5;
+	/*background: #0073a5;*/
+		background: #007234;
 }
 #header .header-top .usermenu {
 		float: right;
