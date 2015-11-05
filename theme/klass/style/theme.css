@@ -4,6 +4,10 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  /*usted no se a identificado todavía*/
  /**/
+ .loginbox {
+    margin: 0px;
+    overflow: visible;
+}
  /**/
  .breadcrumb>li>a {
     color: #FFFFFF;
