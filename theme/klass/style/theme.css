@@ -10,7 +10,9 @@
 }
  /**/
  .breadcrumb>li>a {
-    color: #FFFFFF;
+    color: #01843C;
+    font-family: arial,sans-serif;
+    font-weight: bold;
 }
  /**/
  .info:hover {
