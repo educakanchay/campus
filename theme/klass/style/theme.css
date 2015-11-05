@@ -2028,6 +2028,7 @@ td.submit input[disabled] {
 }
 .loginbox .loginpanel .desc {
 		margin: 20px 0;
+		color: white;
 }
 .loginbox .signuppanel .subcontent {
 		color: #313131;
