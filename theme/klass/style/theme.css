@@ -202,6 +202,8 @@ div#banertext {
     color: white;
     /*font-size: 15px;*/
     padding: 3px;
+    font-weight: bold;
+    font-family: arial,sans-serif;
     /*background: rgb(0, 75, 132);*/
     /*border-bottom: 3px solid #043156;*/
 }
