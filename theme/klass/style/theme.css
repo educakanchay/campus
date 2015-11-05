@@ -418,7 +418,8 @@ html {
     font-size: 100%;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
-    background-color: #0078d7;
+    /*background-color: #0078d7;*/
+    background-color: #007234;
 }
 
 @font-face {
