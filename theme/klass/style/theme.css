@@ -1582,8 +1582,8 @@ legend + * {
 }
 label {
 		/*font-size: 16px;*/
-		/*color: #525252;*/
-		color: #FFFFFF;
+		color: #525252;
+		/*color: #FFFFFF;*/
 }
 #region-main .mform:not(.unresponsive) .fitem .fitemtitle label {
 		font-weight: normal;
