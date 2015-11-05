@@ -4,6 +4,9 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  /*usted no se a identificado todavía*/
  /**/
+ section#region-main {
+    background-image: url("https://www.google.com/edu/images/home/carousel/edu-tablet.jpg");
+}
  /**/
  .breadcrumb>li>a {
     color: #FFFFFF;
