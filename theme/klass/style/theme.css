@@ -2,6 +2,16 @@
  * @author    Hilario Guzman
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ /*usted no se a identificado todavía*/
+ .usermenu .login {
+    font-size: 12px;
+    color: #fff;
+    line-height: 20px;
+    padding: 6px 7px;
+    display: inline-block;
+    margin-top: 1px;
+}
+ /**/
  */
  .breadcrumb>li>a {
     color: #FFFFFF;
