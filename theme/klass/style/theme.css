@@ -202,15 +202,16 @@ div#banertext {
     color: white;
     /*font-size: 15px;*/
     padding: 3px;
-    background: rgb(0, 75, 132);
-    border-bottom: 3px solid #043156;
+    /*background: rgb(0, 75, 132);*/
+    /*border-bottom: 3px solid #043156;*/
 }
 img#imgeb {
     width: 5%;
     padding: 2px;
 }
 .body-baner {
-    background-image: url("http://educacion.be/campus/images/tecnologia.jpg");
+	background: #007234;
+    /*background-image: url("http://educacion.be/campus/images/tecnologia.jpg");*/
 }
 /**Logo end cursos*/
 .block_navigation .block_tree .type_activity > p.tree_item.branch.hasicon.active_tree_node, .block_navigation .block_tree .tree_item {
