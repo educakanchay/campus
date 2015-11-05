@@ -1070,8 +1070,8 @@ h6 {
 }
 #footer {
 		/*background: #fff;*/
-		    background: #00B294;
-		border-top: 5px solid #009fe5;
+		background: #BAD80A;
+    		border-top: 5px solid #BAD80A;
 		margin: 30px 0 0;
 }
 #footer .footer-main {}
