@@ -1624,7 +1624,7 @@ input[type="search"],
 input[type="tel"],
 input[type="color"],
 .uneditable-input {
-		height: 40px;
+		height: 35px;
 		line-height: 1;
 }
 select:focus,
