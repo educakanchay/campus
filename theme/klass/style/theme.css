@@ -2,7 +2,11 @@
  * @author    Hilario Guzman
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+
 /**/
+.section .label .contentwithoutlink, .section .label .activityinstance {
+    padding-right: 0px;
+}
 .navbar .container {
     /* width: auto; */
     width: 1140px;
