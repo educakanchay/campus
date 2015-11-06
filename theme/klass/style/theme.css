@@ -3,6 +3,20 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 /**/
+#header .header-top {
+    min-height: 34px;
+    background: #058670;
+    position: fixed;
+    width: 100%;
+    z-index: 4;
+    margin: 0;
+    border-bottom: 2px solid #BAD80A;
+}
+.row-fluid {
+    width: 100%;
+    margin-top: 32px;
+}
+
 div#page-content {
     background: white;
 }
