@@ -680,8 +680,10 @@ h6 {
 }
 #header .header-main .header-main-menubar .navbar-text a {
 		/*font-family: arvoregular, Arial, Helvetica, sans-serif;*/
-		color: #232323;
-		text-transform: uppercase;
+		color: #E4EA1C;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: arial,sans-serif;
 }
 #header .header-main .header-main-menubar .navbar-text a:hover,
 #header .header-main .header-main-menubar .navbar-text a:focus {
