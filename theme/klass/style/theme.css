@@ -580,8 +580,8 @@ h6 {
 #header .header-main {}
 #header .header-main .header-main-content {
 		    padding: 10px 0 0;
-    background: #009fe5;
-    background-image: url("http://educacion.be/campus/images/tecnologia.jpg");
+    background: #004457;
+    /*background-image: url("http://educacion.be/campus/images/tecnologia.jpg");*/
     background-size: cover;
 }
 #logo {
