@@ -2,7 +2,54 @@
  * @author    Hilario Guzman
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+
 /**/
+.path-site li.activity>div, .path-course-view li.activity>div {
+    padding: 0 0px 0 0;
+}
+.section .activity.modtype_label.label {
+    padding: 0;
+}
+.section .label .mod-indent-outer {
+    padding-left: 0px;
+}
+.course-content li.section ul {
+    margin: 0px;
+}
+.course-content ul.topics li.section .content, .course-content ul.weeks li.section .content {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.course-content .single-section .section-navigation {
+    padding: 0em;
+}
+.course-content ul.topics li.section .left, .course-content ul.topics li.section .right {
+    width: 0px;
+}
+.section .label .contentwithoutlink, .section .label .activityinstance {
+    padding-right: 0px;
+}
+.navbar .container {
+    /* width: auto; */
+    width: 1140px;
+}
+#header .header-top {
+    min-height: 34px;
+    background: #007965;
+    position: fixed;
+    width: 100%;
+    z-index: 4;
+    margin: 0;
+    border-bottom: 2px solid #BAD80A;
+}
+.row-fluid {
+    width: 100%;
+    /*margin-top: 32px;*/
+}
+
+div#page-content {
+    background: white;
+}
 aside#block-region-side-pre {
     /*margin-left: 0px;*/
         /*width: 25.096923076923077%;*/
@@ -153,6 +200,7 @@ div#inst36 {
 .row-fluid [class*="span"]:first-child {
     margin-left: 0;
     background: #007234;
+    margin-top: 32px;
 }
  div#yui_3_17_2_2_1446576600761_156 {
     background: #007234;
@@ -286,6 +334,17 @@ a:hover, a:focus {
     font-weight: bold;
 }
 /**Cursos fronten**/
+.cursos-visual-estudio-express{
+    background: #67217A;
+    color: #fff;
+    padding: 0 1em;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+}
 .cursos-primary {
     background: #2E2872;
     color: #fff;
@@ -460,7 +519,8 @@ body {
 		font-family: 'Roboto Slab', serif;
 		color: #656565;
 		padding-top: 0;
-		max-width: 1170px;
+		background: #007234;
+		/*max-width: 1170px;*/
     		margin: auto;
 		font-size: 13px;
 }
@@ -518,7 +578,7 @@ h6 {
 #header .header-top {
 		min-height: 34px;
 	/*background: #0073a5;*/
-		background: #007234;
+		/*background: #007234;*/
 }
 #header .header-top .usermenu {
 		float: right;
@@ -551,14 +611,15 @@ h6 {
 #header .header-main {}
 #header .header-main .header-main-content {
 		    padding: 10px 0 0;
-    background: #009fe5;
-    background-image: url("http://educacion.be/campus/images/tecnologia.jpg");
+    background: #004457;
+    /*background-image: url("http://educacion.be/campus/images/tecnologia.jpg");*/
     background-size: cover;
 }
 #logo {
 		width: 183px;
 		height: 80px;
 		margin: 0 0 9px;
+		margin-top: 32px;
 }
 #logo a {
 		display: block;
@@ -573,6 +634,7 @@ h6 {
 .dir-ltr #header .header-main .header-main-content .top-search {
 		padding: 0 38px 0 0;
 		border-radius: 3px;
+		margin-top: 51px;
 }
 .dir-rtl #header .header-main .header-main-content .top-search {
 		padding: 0 0 0 38px;
@@ -644,8 +706,10 @@ h6 {
 }
 #header .header-main .header-main-menubar .navbar-text a {
 		/*font-family: arvoregular, Arial, Helvetica, sans-serif;*/
-		color: #232323;
-		text-transform: uppercase;
+		color: #E4EA1C;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: arial,sans-serif;
 }
 #header .header-main .header-main-menubar .navbar-text a:hover,
 #header .header-main .header-main-menubar .navbar-text a:focus {
@@ -662,7 +726,8 @@ h6 {
 		margin: 0;
 }
 .navbar-inner {
-		background: #f1f1f1;
+		/*background: #f1f1f1;*/
+		    background: #004457;
 		border: 0;
 		border-radius: 0;
     -webkit-box-shadow: none;
@@ -2734,7 +2799,7 @@ padding: 4px 8px;
 		}
 }
 .fp-site-customdesc {
-		background: #fff;
+		/*background: #fff;*/
 		/*padding: 10px 0 25px;*/
 		text-align: center;
 }
@@ -2745,9 +2810,9 @@ padding: 4px 8px;
     font-weight: bold;
     text-transform: uppercase;
     color: #FFFFFF;
-    background: #004B84;
+    /*background: #004B84;*/
     border-radius: 2px;
-    border-bottom: 5px solid #012948;
+    /*border-bottom: 5px solid #012948;*/
 }
 .fp-site-customdesc p {
 		        line-height: 18px;
