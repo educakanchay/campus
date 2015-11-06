@@ -3,6 +3,9 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 /**/
+div#page-content {
+    background: white;
+}
 aside#block-region-side-pre {
     /*margin-left: 0px;*/
         /*width: 25.096923076923077%;*/
