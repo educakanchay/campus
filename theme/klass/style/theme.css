@@ -1679,6 +1679,7 @@ input[type="checkbox"] + label {
 .dir-rtl input[type="checkbox"]+label {
 		padding-right: .2em;
 		padding-left: 0;
+		color: white;
 }
 button,
 input.form-submit,
