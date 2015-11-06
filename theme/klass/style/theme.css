@@ -2034,7 +2034,8 @@ td.submit input[disabled] {
 }
 .loginbox .loginform .form-input {}
 .loginbox .loginform .form-input input {
-		border-left: 13px solid #78CFFC;
+	
+		/*border-left: 13px solid #78CFFC;*/
 		width: 100%;
 		max-width: 224px;
 		margin-bottom: 0;
