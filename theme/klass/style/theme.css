@@ -4,6 +4,9 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 
 /**/
+.course-content .single-section .section-navigation {
+    padding: 0em;
+}
 .course-content ul.topics li.section .left, .course-content ul.topics li.section .right {
     width: 0px;
 }
