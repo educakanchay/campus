@@ -603,6 +603,7 @@ h6 {
 .dir-ltr #header .header-main .header-main-content .top-search {
 		padding: 0 38px 0 0;
 		border-radius: 3px;
+		margin-top: 51px;
 }
 .dir-rtl #header .header-main .header-main-content .top-search {
 		padding: 0 0 0 38px;
