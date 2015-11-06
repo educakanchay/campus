@@ -2,9 +2,17 @@
  * @author    Hilario Guzman
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
- */
+ /*usted no se a identificado todavía*/
+ /**/
+ .loginbox {
+    margin: 0px;
+    overflow: visible;
+}
+ /**/
  .breadcrumb>li>a {
-    color: #FFFFFF;
+    color: #01843C;
+    font-family: arial,sans-serif;
+    font-weight: bold;
 }
  /**/
  .info:hover {
@@ -196,15 +204,18 @@ div#banertext {
     color: white;
     /*font-size: 15px;*/
     padding: 3px;
-    background: rgb(0, 75, 132);
-    border-bottom: 3px solid #043156;
+    font-weight: bold;
+    font-family: arial,sans-serif;
+    /*background: rgb(0, 75, 132);*/
+    /*border-bottom: 3px solid #043156;*/
 }
 img#imgeb {
     width: 5%;
     padding: 2px;
 }
 .body-baner {
-    background-image: url("http://educacion.be/campus/images/tecnologia.jpg");
+	background: #007234;
+    /*background-image: url("http://educacion.be/campus/images/tecnologia.jpg");*/
 }
 /**Logo end cursos*/
 .block_navigation .block_tree .type_activity > p.tree_item.branch.hasicon.active_tree_node, .block_navigation .block_tree .tree_item {
@@ -412,7 +423,8 @@ html {
     font-size: 100%;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
-    background-color: #0078d7;
+    /*background-color: #0078d7;*/
+    background-color: #007234;
 }
 
 @font-face {
@@ -498,7 +510,8 @@ h6 {
 #header {}
 #header .header-top {
 		min-height: 34px;
-		background: #0073a5;
+	/*background: #0073a5;*/
+		background: #007234;
 }
 #header .header-top .usermenu {
 		float: right;
@@ -507,11 +520,17 @@ h6 {
 		float: left;
 }
 .usermenu .login {
-		font-size: 12px;
-		color: #fff;
-		line-height: 20px;
-		padding: 7px 0;
-		display: inline-block;
+	font-size: 12px;
+    	color: #fff;
+    	line-height: 20px;
+    	padding: 6px 7px;
+    	display: inline-block;
+    	margin-top: 1px;
+    	background: #2BBF3E;
+    	font-family: arial,sans-serif;
+    	font-weight: bold;
+    	border-radius: 2px;
+    	border-left: 10px solid #E4EA1C;
 }
 .usermenu .login a {
 		color: #fff;
@@ -546,6 +565,7 @@ h6 {
 }
 .dir-ltr #header .header-main .header-main-content .top-search {
 		padding: 0 38px 0 0;
+		border-radius: 3px;
 }
 .dir-rtl #header .header-main .header-main-content .top-search {
 		padding: 0 0 0 38px;
@@ -616,7 +636,7 @@ h6 {
 		padding: 0 0 0 15px;
 }
 #header .header-main .header-main-menubar .navbar-text a {
-		font-family: arvoregular, Arial, Helvetica, sans-serif;
+		/*font-family: arvoregular, Arial, Helvetica, sans-serif;*/
 		color: #232323;
 		text-transform: uppercase;
 }
@@ -882,7 +902,12 @@ h6 {
 		background: #f1f1f1;
 }
 .jsenabled .usermenu .moodle-actionmenu > .menubar {
-		margin: 0;
+	margin: 0;
+	font-family: arial,sans-serif;
+    	border-left: 10px solid #E4EA1C;
+    	font-weight: bold;
+    	border-radius: 2px;
+    	background: #2BBF3E none repeat scroll 0% 0%;
 }
 .jsenabled .usermenu .moodle-actionmenu.show .toggle-display {
 		color: #232323;
@@ -1046,8 +1071,8 @@ h6 {
 }
 #footer {
 		/*background: #fff;*/
-		    background: #00B294;
-		border-top: 5px solid #009fe5;
+		background: #BAD80A;
+    		border-top: 5px solid #BAD80A;
 		margin: 30px 0 0;
 }
 #footer .footer-main {}
@@ -1559,6 +1584,7 @@ legend + * {
 label {
 		/*font-size: 16px;*/
 		color: #525252;
+		/*color: #FFFFFF;*/
 }
 #region-main .mform:not(.unresponsive) .fitem .fitemtitle label {
 		font-weight: normal;
@@ -1614,7 +1640,7 @@ input[type="search"],
 input[type="tel"],
 input[type="color"],
 .uneditable-input {
-		height: 40px;
+		height: 35px;
 		line-height: 1;
 }
 select:focus,
@@ -1967,6 +1993,7 @@ td.submit input[disabled] {
 .loginbox.twocolumns {
 		margin-right: 0;
 		margin-left: 0;
+		background-image: url("https://www.google.com/edu/images/home/carousel/bring-google.jpg");
 }
 .loginbox h2 {
 		padding: 0;
@@ -1998,6 +2025,7 @@ td.submit input[disabled] {
 }
 .loginbox .loginform .form-input {}
 .loginbox .loginform .form-input input {
+		border-left: 13px solid #78CFFC;
 		width: 100%;
 		max-width: 224px;
 		margin-bottom: 0;
@@ -2017,6 +2045,7 @@ td.submit input[disabled] {
 }
 .loginbox .loginpanel .desc {
 		margin: 20px 0;
+		color: white;
 }
 .loginbox .signuppanel .subcontent {
 		color: #313131;
