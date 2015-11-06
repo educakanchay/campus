@@ -2098,6 +2098,7 @@ td.submit input[disabled] {
 		.loginbox .loginform .form-label label {
 				line-height: 40px;
 				margin-bottom: 0;
+				color: #F7F7F7;
 		}
 		.loginbox .loginform .form-input {
 				width: 52%;
