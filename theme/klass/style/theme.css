@@ -4,6 +4,10 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 
 /**/
+.course-content ul.topics li.section .content, .course-content ul.weeks li.section .content {
+    margin-right: 0px;
+    margin-left: 0px;
+}
 .course-content .single-section .section-navigation {
     padding: 0em;
 }
