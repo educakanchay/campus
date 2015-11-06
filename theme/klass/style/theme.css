@@ -2773,7 +2773,7 @@ padding: 4px 8px;
 		}
 }
 .fp-site-customdesc {
-		background: #fff;
+		/*background: #fff;*/
 		/*padding: 10px 0 25px;*/
 		text-align: center;
 }
@@ -2784,9 +2784,9 @@ padding: 4px 8px;
     font-weight: bold;
     text-transform: uppercase;
     color: #FFFFFF;
-    background: #004B84;
+    /*background: #004B84;*/
     border-radius: 2px;
-    border-bottom: 5px solid #012948;
+    /*border-bottom: 5px solid #012948;*/
 }
 .fp-site-customdesc p {
 		        line-height: 18px;
