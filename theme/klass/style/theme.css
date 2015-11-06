@@ -170,6 +170,7 @@ div#inst36 {
 .row-fluid [class*="span"]:first-child {
     margin-left: 0;
     background: #007234;
+    margin-top: 32px;
 }
  div#yui_3_17_2_2_1446576600761_156 {
     background: #007234;
