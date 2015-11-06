@@ -4,6 +4,18 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 
 /**/
+.path-site li.activity>div, .path-course-view li.activity>div {
+    padding: 0 0px 0 0;
+}
+.section .activity.modtype_label.label {
+    padding: 0;
+}
+.section .label .mod-indent-outer {
+    padding-left: 0px;
+}
+.course-content li.section ul {
+    margin: 0px;
+}
 .course-content ul.topics li.section .content, .course-content ul.weeks li.section .content {
     margin-right: 0px;
     margin-left: 0px;
