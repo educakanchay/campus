@@ -4,6 +4,9 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 
 /**/
+.course-content ul.topics li.section .left, .course-content ul.topics li.section .right {
+    width: 0px;
+}
 .section .label .contentwithoutlink, .section .label .activityinstance {
     padding-right: 0px;
 }
