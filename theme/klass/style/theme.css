@@ -2,6 +2,13 @@
  * @author    Hilario Guzman
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+/**/
+aside#block-region-side-pre {
+    /*margin-left: 0px;*/
+        /*width: 25.096923076923077%;*/
+        /*width: 24.076923076923077%;*/
+}
+/**/
  /*usted no se a identificado todavía*/
  /**/
  .loginbox {
@@ -1606,6 +1613,7 @@ input[type="search"],
 input[type="tel"],
 input[type="color"],
 .uneditable-input {
+	border-left: 13px solid #78CFFC;
 	    border-color: rgba(45, 181, 251, 0.64);
 	        border-radius: 5px;
 		/*color: #313131;*/
@@ -1673,6 +1681,7 @@ input[type="checkbox"] + label {
 .dir-rtl input[type="checkbox"]+label {
 		padding-right: .2em;
 		padding-left: 0;
+		color: white;
 }
 button,
 input.form-submit,
@@ -2025,7 +2034,8 @@ td.submit input[disabled] {
 }
 .loginbox .loginform .form-input {}
 .loginbox .loginform .form-input input {
-		border-left: 13px solid #78CFFC;
+	
+		/*border-left: 13px solid #78CFFC;*/
 		width: 100%;
 		max-width: 224px;
 		margin-bottom: 0;
@@ -2092,6 +2102,7 @@ td.submit input[disabled] {
 		.loginbox .loginform .form-label label {
 				line-height: 40px;
 				margin-bottom: 0;
+				color: #F7F7F7;
 		}
 		.loginbox .loginform .form-input {
 				width: 52%;

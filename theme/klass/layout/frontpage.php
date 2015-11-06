@@ -98,6 +98,11 @@ echo $OUTPUT->doctype() ?>
 </div>
 <?php  require_once(dirname(__FILE__) . '/includes/footer.php');  ?>   
 <!--Custom theme footer-->
-
+<!--CHAT-->
+<script type="text/javascript">
+var $zoho= $zoho || {salesiq:{values:{},ready:function(){}}};var d=document;s=d.createElement("script");s.type="text/javascript";
+s.defer=true;s.src="https://salesiq.zoho.com/educacionbeonline/float.ls?embedname=educacionbeonline";
+t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);
+</script>
 </body>
 </html>
