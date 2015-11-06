@@ -2,6 +2,11 @@
  * @author    Hilario Guzman
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+/**/
+aside#block-region-side-pre {
+    margin-left: 0px;
+}
+/**/
  /*usted no se a identificado todavía*/
  /**/
  .loginbox {
