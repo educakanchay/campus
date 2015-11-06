@@ -1613,6 +1613,7 @@ input[type="search"],
 input[type="tel"],
 input[type="color"],
 .uneditable-input {
+	border-left: 13px solid #78CFFC;
 	    border-color: rgba(45, 181, 251, 0.64);
 	        border-radius: 5px;
 		/*color: #313131;*/
