@@ -2125,14 +2125,15 @@ td.submit input[disabled] {
 		color: white;
 }
 .loginbox .signuppanel .subcontent {
-		color: #313131;
+		/*color: #313131;*/
+        color: #FFFFFF;
 		padding-top: 6px;
 }
 .loginbox .signuppanel .subcontent ol {
 		margin-top: 10px;
 }
 .loginbox .signuppanel .subcontent ol li {
-		color: #525252;
+		/*color: #525252;*/
 		line-height: 22px;
 }
 .dir-ltr .loginbox .signupform {
