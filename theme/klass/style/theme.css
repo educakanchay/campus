@@ -1,3 +1,10 @@
+.cursos-word {
+    background:#00188F !important;
+    color: #fff;
+    padding: 0 1em;
+    display: box;
+    display: flex;
+}
 .cursos-excel{
     background: #1E7145;
     color: #fff;
