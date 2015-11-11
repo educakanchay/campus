@@ -4,6 +4,14 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 /**/
 /****examen**/
+.que .specificfeedback, .que .generalfeedback, .que .rightanswer, .que .im-feedback, .que .feedback, .que p {
+    margin: 0 0 .5em;
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+    border-left: 15px solid #fcc329;
+}
+
 .que.multichoice .answer div.r0:hover, .que.multichoice .answer div.r1:hover {
     background: #FCC738;
     color: red;
@@ -15,10 +23,9 @@
 
 .que .qtext {
     margin-bottom: 0;
-    font-size: 1.3em;
+    font-size: 1.4em;
     font-weight: bold;
-    color: #EA00A0;
-    text-shadow: 1px 1px 1px rgba(0,0,0,.4);
+    color: #FBB700;
 }
 input#q2:1_answer0{
 	    background: #FBC32E;
