@@ -4,6 +4,15 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 /**/
 /****examen**/
+.que.multichoice .answer div.r0:hover, .que.multichoice .answer div.r1:hover {
+    background: #FCC738;
+    color: red;
+}
+.que.multichoice .answer div.r0:active, .que.multichoice .answer div.r1:active {
+    border: 2px solid #D69C00;
+    color: red;
+}
+
 .que .qtext {
     margin-bottom: 0;
     font-size: 1.3em;
