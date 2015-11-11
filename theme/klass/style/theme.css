@@ -4,6 +4,11 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 /**/
 /****examen**/
+.que .ablock {
+    margin: .7em 0 .3em 0;
+    color: #FF0000;
+    font-weight: bold;
+}
 .que .specificfeedback, .que .generalfeedback, .que .rightanswer, .que .im-feedback, .que .feedback, .que p {
     margin: 0 0 .5em;
     background: white;
