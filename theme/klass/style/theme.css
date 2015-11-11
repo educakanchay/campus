@@ -2747,6 +2747,7 @@ table#permissions tbody tr:hover > th {
 		/*margin: 14px auto;*/
 		    border-radius: 4px;
     		/*border: 2px solid #C3DE25;*/
+    		    border: 2px solid #BAD80A;
 }
 .fp-coursebox .fp-coursethumb {
 		max-width: 240px;
