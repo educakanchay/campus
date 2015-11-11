@@ -4,6 +4,13 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 /**/
 /****examen**/
+.que .qtext {
+    margin-bottom: 0;
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #EA00A0;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.4);
+}
 input#q2:1_answer0{
 	    background: #FBC32E;
 	        border-radius: 5px 0px 0px 5px;
