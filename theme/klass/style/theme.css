@@ -68,7 +68,7 @@ aside#block-region-side-pre {
         /*width: 24.076923076923077%;*/
 }
 /**/
- /*usted no se a identificado todavía*/
+ /*usted no se a identificado todavÃ­a*/
  /**/
  .loginbox {
     margin: 0px;
@@ -94,7 +94,7 @@ aside#block-region-side-pre {
  span#maincontent {
     margin-top: -2px;
 }
- /*Mesajería*/
+ /*MesajerÃ­a*/
 
  img.userpicture {
     border-radius: 50px;
@@ -193,7 +193,7 @@ div#inst36 {
     min-height: 1px;
     margin-left: 0px;
 }
- /*códigos inscritos*/
+ /*cÃ³digos inscritos*/
  .container-fluid {
     padding-right: 0px;
     padding-left: 0px;
@@ -203,7 +203,7 @@ div#inst36 {
 }
  /**/
  
- /*código de presentacion public*/
+ /*cÃ³digo de presentacion public*/
  div#yui_3_17_2_2_1446582403213_119 {
     background: none;
 }
@@ -282,6 +282,7 @@ img#imgeb {
 }
 .body-baner {
 	background: #007234;
+	background: #009688;
     /*background-image: url("http://educacion.be/campus/images/tecnologia.jpg");*/
 }
 /**Logo end cursos*/
@@ -623,7 +624,7 @@ h6 {
 #header .header-main {}
 #header .header-main .header-main-content {
 		    padding: 10px 0 0;
-    background: #004457;
+    background: #00796B;
     /*background-image: url("http://educacion.be/campus/images/tecnologia.jpg");*/
     background-size: cover;
 }
@@ -739,7 +740,7 @@ h6 {
 }
 .navbar-inner {
 		/*background: #f1f1f1;*/
-		    background: #004457;
+		    background: #00796B;
 		border: 0;
 		border-radius: 0;
     -webkit-box-shadow: none;
@@ -2745,7 +2746,7 @@ table#permissions tbody tr:hover > th {
 		/*border: 1px solid #d5d5d5;*/
 		/*margin: 14px auto;*/
 		    border-radius: 4px;
-    		border: 2px solid #C3DE25;
+    		/*border: 2px solid #C3DE25;*/
 }
 .fp-coursebox .fp-coursethumb {
 		max-width: 240px;
