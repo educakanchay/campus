@@ -574,7 +574,9 @@ body {
 		font-family: 'Open Sans',sans-serif;
 		color: #656565;
 		padding-top: 0;
-		background: #009688;
+		/*background: #009688;*/
+		background: #e9eaed;
+		body
 		/*max-width: 1170px;*/
     		margin: auto;
 		font-size: 13px;
@@ -663,10 +665,12 @@ h6 {
 		color: #fff;
 		text-decoration: none;
 }
-#header .header-main {}
+#header .header-main {
+    background-image: url(https://static.platzi.com/static/organizations/v2/images/profile/cover.7540b13e6f4c.jpg);
+}
 #header .header-main .header-main-content {
-		    padding: 10px 0 0;
-    background: #00796B;
+		    padding: 50px 0 0;
+    /*background: #00796B;*/
     /*background-image: url("http://educacion.be/campus/images/tecnologia.jpg");*/
     background-size: cover;
 }
@@ -1434,7 +1438,7 @@ h6 {
 .block .header {
 		/*background: #fafafa;*/
 		background: #00b294;
-    		padding: 7px 0;
+    		padding: 8px 3;
     		border-bottom: 1px solid #00B294;
 }
 .block .header h2 {
@@ -1593,6 +1597,7 @@ h6 {
 		/*background: #eaeaea;*/
 		padding-right: 20px;
 		padding-left: 20px;
+		margin-bottom: 3px;
 }
 .breadcrumb-nav {
 		background: none;
