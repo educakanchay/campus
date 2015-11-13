@@ -3,9 +3,10 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 /**/
-@media (max-width: 979px)
-.breadcrumb-nav {
+@media (max-width: 979px){
+.breadcrumb-nav .breadcrumb {
     display: block;
+	}
 }
 /****examen**/
 .que .ablock {
