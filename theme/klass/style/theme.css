@@ -2807,7 +2807,8 @@ table#permissions tbody tr:hover > th {
 		/*margin: 14px auto;*/
 		    border-radius: 4px;
     		/*border: 2px solid #C3DE25;*/
-    		    border: 2px solid #BAD80A;
+		border: 5px solid #FFFFFF;
+    		background: #D5F9FB;
 }
 .fp-coursebox .fp-coursethumb {
 		max-width: 240px;
@@ -2818,10 +2819,11 @@ table#permissions tbody tr:hover > th {
 		display: block;
 }
 .fp-coursebox .fp-coursethumb a img {
-		max-width: 70%;
+		max-width: 100%;
 		/*max-height: 163px;*/
 		height: auto;
 		vertical-align: middle;
+
 }
 .fp-coursebox .fp-courseinfo {
 		padding: 5px 0 0;
