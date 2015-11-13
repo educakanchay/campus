@@ -3,11 +3,49 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 /**/
-@media (max-width: 979px){
-.breadcrumb{
-    display: block;
-	}
+
+/*********************************/
+@media only screen and (max-width: 768px) {
+ 
+    /* mostramos #nav-mobile */
+    .breadcrumb-nav{ display: block; }
+ 
+    /* Fijamos nuestro nav en 100% ancho y dejamos de flotarlo */
+    .breadcrumb{
+        width: 100%;
+        float: none;
+        padding-top: 60px;
+    }
+ 
+        /* Convertimos nuestra lista de enlaces en un menú horizontal */
+        .breadcrumb ul{
+            box-shadow: 0 1px 2px rgba(0,0,0,.5);
+            max-height: 0;
+            overflow: hidden;
+        }
+            /* estilos para los LI del menu */
+            .breadcrumb li{
+                background: #33363b;
+                border-bottom: 1px solid #282b30;
+                float: none;
+            }
+                /* Quitamos el borde del ultimo item del menú */
+                .breadcrumb li:last-child{ border-bottom: 0;}
+ 
+                .breadcrumb li a{
+                    padding: 15px 0;
+                    height: auto;
+                    line-height: normal;
+                }
+                .breadcrumb li a:hover{background:#2a2d33}
+ 
+        /* Agregamos una animación al despligue del menú */
+        .breadcrumb ul.open-menu{
+            max-height: 400px;
+            transition: max-height .4s;
+        }
 }
+/*******************************************************************************************/
 /****examen**/
 .que .ablock {
     margin: .7em 0 .3em 0;
