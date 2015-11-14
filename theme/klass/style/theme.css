@@ -194,20 +194,24 @@ a#notificationno {
 }
 
 div#newmessageoverlay {
-    background-color: #FFF102;
-    border: 1px solid #E6D902;
-    border-color: #FFF102;
-    /*top: 0;*/
+background-color: #E4EA1C;
+    border: 1px solid #E6EC01;
     position: fixed;
+    background-image: url("https://github.com/educacionbe/resource/blob/master/designs-png/proyecto/mensaje.png?raw=true");
+    background-repeat: no-repeat;
+    background-size: 60px;
+    background-position-x: 65px;
+    background-position-y: 5px;
 }
 #newmessageoverlay {
     position: fixed;
     right: 0;
     bottom: none;
     min-height: 20px;
-    padding: 19px;
+    padding: 68px 19px 30px 19px;
+    /*padding: 19px;*/
     margin: 0 1em;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     background-color: #f5f5f5;
     border: 1px solid #e3e3e3;
     border-color: #e3e3e3;
