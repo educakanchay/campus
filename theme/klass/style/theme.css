@@ -167,30 +167,30 @@ aside#block-region-side-pre {
 }
 
 div#newmessagetext {
-    color: white;
+color: white;
     font-weight: bold;
     background: #01BBF3;
     padding: 2px;
     margin-bottom: 5px;
-    border-bottom: 3px solid #0085AD;
-    border-radius: 5px;
+    border-bottom: 1px solid #0085AD;
+    border-radius: 4px;
 }
 
 a#notificationyes {
     background: #00B294;
-    border-bottom: 3px solid #03715F;
+    border-bottom: 1px solid #03715F;
     padding: 3px;
-    border-radius: 4px;
+    border-radius: 3px;
     color: white;
     font-weight: bold;
 }
 a#notificationno {
     background: #EF018D;
-    border-radius: 4px;
+    border-radius: 3px;
     padding: 3px;
     color: white;
     font-weight: bold;
-    border-bottom: 3px solid #A70162;
+    border-bottom: 1px solid #A70162;
 }
 
 div#newmessageoverlay {
