@@ -3,6 +3,29 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 /**/
+/*******/
+.message .time {
+    background: yellow;
+    padding: 3px;
+    border-radius: 4px;
+    color: red;
+    font-weight: bold;
+}
+.message.me {
+    background: #C2EDFF;
+    padding: 8px;
+    border-radius: 5px;
+    color: #007FB3;
+    border: 1px solid #68D3FF;
+}
+.message.other {
+    background: #D0FFD0;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #8AFB8A;
+    color: #009400;
+}
+/******/
 .que .ablock {
     margin: .7em 0 .3em 0;
     color: #FF0000;
