@@ -1507,27 +1507,25 @@ h6 {
 		text-decoration: none;
 }
 .block {
-		background: #fff;
-		padding-top: 0;
-		    border-color: #00B0CB;
+background: #fff;
+    padding-top: 0;
+    border-color: #DEDEDE!important;
     border-radius: 5px;
     -webkit-box-shadow: none;
-       -moz-box-shadow: none;
-            box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
 }
 .block .header {
-		/*background: #fafafa;*/
-		    background: #00b0cb;
+    background: #DEDEDE!important;
     padding: 3px 4px;
-    border-bottom: 1px solid #00b0cb;
+    border-bottom: 1px solid #DEDEDE!important;
 }
 .block .header h2 {
-		/*font-weight: normal;*/
-		font-weight: bold;
-		/*color: #c02424;*/
-		color: #FFFFFF;
-		text-shadow: none;
-		text-transform: none;
+		    font-weight: 700;
+    color: #6D6D6D;
+    text-shadow: none;
+    text-transform: uppercase;
+    text-align: center;
 }
 .block .content {
 		padding-top: 12px;
