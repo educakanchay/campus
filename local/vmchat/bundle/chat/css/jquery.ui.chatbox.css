@@ -510,3 +510,10 @@ a.ui-tabs-anchor{
     font-family: arial,sans-serif;
     font-size: 13px;
 }
+.ui-widget-content a {
+    color: #556269/*{fcContent}*/;
+    font-weight: 700;
+}
+.ui-widget-content {
+    color: #556269/*{fcContent}*/;
+}
