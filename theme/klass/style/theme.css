@@ -648,16 +648,21 @@ ul.weeks h3.sectionname {
     white-space: normal;
 }
 h3 {
-    font-size: 1.4em;
+        font-size: 1.4em;
     text-align: center;
-    border-bottom: 0px solid #00B9FF;
-    background: #8CDBF9;
-    border-left: 10px solid #00B9FF;
-    border-right: 10px solid #28B779;
+    /* border-bottom: 0px solid #00B9FF; */
+    /* background: #8CDBF9; */
+    /* border-left: 10px solid #00B9FF; */
+    /* border-right: 10px solid #28B779; */
     line-height: 250%;
     font-weight: bold;
-    color: #0092CA;
+    color: #FFFFFF;
     margin: 1px 0;
+    background-image: url(https://static.platzi.com/media/categories-banner/business.png);
+    background-color: #3FB6C0;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 10px 10px 0 0;
 }
 h4 {
 		font-size: 21px;
