@@ -308,6 +308,7 @@ ui-memblist-usr
 /* tab css */
 .ui-tabs,.ui-tabs .ui-tabs-nav{
     padding: 0;
+    background: #006596;
    }
 .ui-tabs .ui-tabs-nav li {
     float:right;
