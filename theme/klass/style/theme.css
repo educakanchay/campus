@@ -1356,7 +1356,9 @@ h6 {
     		padding: 6px 0;
     		/*border-top: 1px solid #009fe5;*/
     		margin-bottom: 0;
-    		background: #90007F;
+    		/*background: #90007F;*/
+    		background: #273B47;
+    		font-size: 12px;
 }
 #footer .footer-foot p span {
 		color: #c02424;
