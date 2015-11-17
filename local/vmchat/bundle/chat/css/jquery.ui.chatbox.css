@@ -500,3 +500,7 @@ a.ui-tabs-anchor{
     color: white;
     border: 1px solid #7DCD40;
 }
+.ui-widget {
+    font-family: arial,sans-serif;
+    font-size: 13px;
+}
