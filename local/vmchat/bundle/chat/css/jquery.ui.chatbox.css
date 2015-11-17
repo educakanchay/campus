@@ -455,6 +455,7 @@ ui-memblist-usr
 }
 .ui-memblist-usr a img{
     margin-top: 5px;
+    border-radius: 50px;
 }
 .ui-memblist-usr a span{
     font-size: 13px;
