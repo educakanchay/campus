@@ -3,44 +3,7 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 /**/
-/*Provando mensajerias de texto inicial***/
-div#mensajerias-educacion {
-    float: right;
-    width: auto;
-    min-height: 50px;
-    background: #BCF2FF;
-    position: fixed;
-    bottom: 0;
-    display: table;
-    border-collapse: separate;
-    font-size: 12px;
-    right: 0;
-    border: 3px solid #BB24B6;
-}
 
-img.userpicture {
-    border-radius: 50px;
-    height: 40px;
-    width: 40px;
-}
-.form-item, .mform .fitem {
-    margin-bottom: 0px;
-}
-@media (min-width: 1200px)
-.form-item .form-label, .mform .fitem div.fitemtitle, .userprofile dl.list dt, .form-horizontal .control-label {
-    width: 30px;
-}
-@media (min-width: 1200px)
-.form-item .form-setting, .form-item .form-description, .mform .fitem .felement, #page-mod-forum-search .c1, .mform .fdescription.required, .userprofile dl.list dd, .form-horizontal .controls {
-    margin-left: 0px;
-}
-#fgroup_id_buttonar, #fitem_id_submitbutton, .dir-rtl #fgroup_id_buttonar, .dir-rtl #fitem_id_submitbutton, .dir-rtl .form-buttons, .dir-rtl .fp-content-center form+div, .dir-rtl .path-admin .buttons, .dir-rtl div.backup-section+form, .dir-rtl table#form td.submit, .form-buttons, .fp-content-center form+div, .path-admin .buttons, div.backup-section+form, table#form td.submit {
-    background: 0 0;
-    padding: 0;
-    border-top: 0;
-    margin: 0 0 0px;
-}
-/**Provando mensajerías de texto fin**/
 .message .time {
     background: yellow;
     padding: 3px;
