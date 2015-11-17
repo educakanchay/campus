@@ -494,3 +494,8 @@ a.ui-tabs-anchor{
     -moz-box-sizing: content-box !important;
     box-sizing: content-box !important;
 }*/
+.ui-widget-header {
+    font-weight: bold;
+    background: #7DCD40;
+    color: white;
+}
