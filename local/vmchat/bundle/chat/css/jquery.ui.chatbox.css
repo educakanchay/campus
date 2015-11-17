@@ -498,4 +498,5 @@ a.ui-tabs-anchor{
     font-weight: bold;
     background: #7DCD40;
     color: white;
+    border: 1px solid #7DCD40;
 }
