@@ -41,6 +41,7 @@ echo $OUTPUT->doctype() ?>
     <?php echo $OUTPUT->standard_head_html() ?>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <LINK rel="cursos" type="text/css" href="https://github.com/educacionbe/campus/blob/master/theme/klass/style/curso.css">
+    <LINK rel="campus" type="text/css" href="https://github.com/educacionbe/campus/blob/master/theme/klass/style/campus.css">
 </head>
 
 <body <?php echo $OUTPUT->body_attributes(); ?>>
