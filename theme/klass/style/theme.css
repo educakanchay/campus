@@ -3,6 +3,11 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 /**/
+.course-content .section-summary {
+    margin-top: 5px;
+    list-style: none;
+    border: 0px solid #ddd;
+}
 #stickycontainer {
     height: 4px;
 }
