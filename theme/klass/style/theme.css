@@ -1108,7 +1108,10 @@ h6 {
 		margin-top: 0;
 }
 #header .moodle-actionmenu.show[data-enhanced] .menu a:hover {
-		color: #232323;
+		/*color: #232323;*/
+		color: #FFFFFF;
+    		background: #ff4700;
+    		font-weight: 700;
 }
 .jsenabled .usermenu .moodle-actionmenu.show .menu a:hover {
 		background: #fff;
@@ -2807,8 +2810,12 @@ table#permissions tbody tr:hover > th {
 						box-shadow: 0 0 6px 1px rgba(0, 0, 0, 0.2);
 }
 .moodle-actionmenu.show[data-enhanced] .menu a {
-		color: #232323;
+		/*color: #232323;*/
+		color: #FFFFFF;
 		border-radius: 0;
+		background: #273b47;
+    		border-top: 1px solid #355061;
+    		font-weight: 700;
 }
 .moodle-actionmenu.show[data-enhanced] .menu a:first-child,
 .moodle-actionmenu.show[data-enhanced] .menu a:last-child {
