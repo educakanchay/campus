@@ -175,7 +175,8 @@ ui-memblist-usr
     /*background: #EBEEF4;*/
     border-right: 1px solid #BAC0CD;
     border-left: 1px solid transparent;
-    color: #333;
+    /*color: #333;*/
+    color: #FFF;
     cursor: pointer;
     height: 29px;
     padding: 0px 6px;
