@@ -177,6 +177,12 @@
     display: flex;
     margin-left: .5em;
 }
+@media only screen and (max-width: 1000px)
+.Layout-careers {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+}
 
 /******Provando código Platzi final**/
 .form-item .form-description, .felement.fstatic {
