@@ -403,18 +403,21 @@ ui-memblist-usr
     /* background: -o-linear-gradient(top,  #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); */ /* Opera 11.10+ */
     /* background: -ms-linear-gradient(top,  #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); */ /* IE10+ */
     /* background: linear-gradient(to bottom,  #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); */ /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#fefefe',GradientType=0 ); /* IE6-9 */
+    /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#fefefe',GradientType=0 );*/ /* IE6-9 */
      height: 28px;
       border: 1px solid #ccc;
       border-top: none;
-      border-radius: 0;
+      /*border-radius: 0;*/
     /*   border-left: 1px solid #BAC0CD; */
-    -webkit-border-bottom-right-radius: 6px;
-    -webkit-border-bottom-left-radius: 6px;
-    -moz-border-radius-bottomright: 6px;
-    -moz-border-radius-bottomleft: 6px;
-    border-bottom-right-radius: 6px;
-    border-bottom-left-radius: 6px;
+    /*-webkit-border-bottom-right-radius: 6px;*/
+   /* -webkit-border-bottom-left-radius: 6px;*/
+    /*-moz-border-radius-bottomright: 6px;*/
+    /*-moz-border-radius-bottomleft: 6px;*/
+   /* border-bottom-right-radius: 6px;*/
+    /*border-bottom-left-radius: 6px;*/
+        font-weight: bold;
+    background: #006596;
+    color: white;
 }
 .ui-chatbox-input textarea{
     font-size: 14px;
