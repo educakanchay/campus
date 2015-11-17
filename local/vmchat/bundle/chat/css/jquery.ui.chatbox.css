@@ -473,6 +473,8 @@ ui-memblist-usr
     position: relative;
     top: 0px;
     cursor: pointer;
+    background: #7DCD40;
+    border: 1px solid #7DCD40;
 }
 .ui-icon-close{
     margin-top: 4px;
