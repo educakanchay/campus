@@ -114,12 +114,14 @@ input#q2:1_answer0{
 }
 #header .header-top {
     min-height: 34px;
-    background: #007965;
+    /*background: #007965;*/
+    background: #273b47;
     position: fixed;
     width: 100%;
     z-index: 4;
     margin: 0;
-    border-bottom: 2px solid #BAD80A;
+    /*border-bottom: 2px solid #BAD80A;*/
+        border-bottom: 2px solid #273B47;
 }
 .row-fluid {
     width: 100%;
@@ -1059,8 +1061,8 @@ h6 {
 		line-height: 36px;
 }
 .usermenu .moodle-actionmenu .toggle-display:hover {
-		color: #232323;
-		background: #f1f1f1;
+		    color: #FFFFFF;
+    			background: #7dcd40;
 }
 .jsenabled #header .moodle-actionmenu[data-enhance] .toggle-display.textmenu:hover .caret {
 		border-top-color: #232323;
@@ -1075,11 +1077,11 @@ h6 {
 }
 .jsenabled .usermenu .moodle-actionmenu > .menubar {
 	margin: 0;
-	font-family: arial,sans-serif;
-    	border-left: 10px solid #E4EA1C;
-    	font-weight: bold;
-    	border-radius: 2px;
-    	background: #2BBF3E none repeat scroll 0% 0%;
+    font-family: arial,sans-serif;
+    border-left: 10px solid #FFFFFF;
+    font-weight: bold;
+    border-radius: 2px;
+    background: #006596 none repeat scroll 0% 0%;
 }
 .jsenabled .usermenu .moodle-actionmenu.show .toggle-display {
 		color: #232323;
