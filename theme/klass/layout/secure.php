@@ -32,6 +32,7 @@ echo $OUTPUT->doctype() ?>
     <link rel="shortcut icon" href="<?php echo $OUTPUT->favicon(); ?>" />
     <?php echo $OUTPUT->standard_head_html() ?>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <LINK rel="campus" type="text/css" href="https://github.com/educacionbe/campus/blob/master/theme/klass/style/campus.css">
 </head>
 
 <body <?php echo $OUTPUT->body_attributes(); ?>>
