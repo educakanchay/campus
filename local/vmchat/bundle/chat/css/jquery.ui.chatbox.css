@@ -434,6 +434,9 @@ ui-memblist-usr
 }
 .ui-widget-content .ui-corner-all{
     border: none;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: arial,sans-serif;
     /* border-radius: 0;*/
 }
 /*.ui-widget-header{
