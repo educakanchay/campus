@@ -256,8 +256,7 @@ div#inst36 {
     border-color: white;
 }
 
- div#inst3 {
-    border-color: white;
+
 }
  .block_online_users .content .list li.listentry .user .userpicture {
     vertical-align: text-bottom;
@@ -1505,8 +1504,8 @@ h6 {
 .block {
 		background: #fff;
 		padding-top: 0;
-		border-color: #FFFFFF;
-		border-radius: 0;
+		    border-color: #00B0CB;
+    border-radius: 5px;
     -webkit-box-shadow: none;
        -moz-box-shadow: none;
             box-shadow: none;
