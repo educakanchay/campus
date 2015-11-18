@@ -6,7 +6,7 @@
     /*background-image: url(https://static.platzi.com/media/categories-banner/business.png);*/
     /*background-color: #3FB6C0;*/
     @media only screen and (max-width: 767px)
-.CourseList .Layout-careers {
+.Layout-careers {
     -webkit-column-count: 1;
     -moz-column-count: 1;
     column-count: 1;
