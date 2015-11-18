@@ -873,7 +873,8 @@ h3 {
     font-weight: bold;
     color: #FFFFFF;
     margin: 1px 0;
-    /*background-image: url(https://static.platzi.com/media/categories-banner/business.png);*/
+    background: #0690cf;
+    background-image: url(https://static.platzi.com/media/categories-banner/business.png);
     /*background-color: #3FB6C0;*/
     background-repeat: no-repeat;
     background-position: center;
