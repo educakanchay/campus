@@ -6,6 +6,11 @@
     /*background-image: url(https://static.platzi.com/media/categories-banner/business.png);*/
     /*background-color: #3FB6C0;*/
     
+    .no-overflow {
+    padding-bottom: 1px;
+    overflow: auto;
+    border-radius: 0PX 0PX 10px 10px;
+}
     a {
     color: #FFFFFF;
 }
