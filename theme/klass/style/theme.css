@@ -1769,7 +1769,8 @@ background: #19BC7B;
     text-shadow: none;
 }
 .block .content a {
-		color: #17C7AA;
+		/*color: #17C7AA;*/
+		color: #0187b9;
 }
 .block.block_news_items .content a {
 		color: #009fe5;
