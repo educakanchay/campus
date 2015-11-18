@@ -6,6 +6,10 @@
     /*background-image: url(https://static.platzi.com/media/categories-banner/business.png);*/
     /*background-color: #3FB6C0;*/
     
+    a {
+    color: #FFFFFF;
+}
+
     .section-title {
     background-image: url(https://static.platzi.com/media/categories-banner/business.png);
     /*background-color: #3FB6C0;*/
