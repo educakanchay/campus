@@ -261,6 +261,13 @@ div#inst4 {
     color: #FF0000;
     font-weight: bold;
 }
+.que .formulation {
+    color: #3a87ad;
+    color: #333;
+    background-color: rgba(88, 226, 103, 0.32);
+    border-color: #4FCE5B;
+}
+
 .que .specificfeedback, .que .generalfeedback, .que .rightanswer, .que .im-feedback, .que .feedback, .que p {
     margin: 0 0 .5em;
     background: white;
@@ -280,9 +287,10 @@ div#inst4 {
 
 .que .qtext {
     margin-bottom: 0;
-    font-size: 1.4em;
+    font-size: 1.2em;
     font-weight: bold;
-    color: #FBB700;
+    color: #008C0D;
+    text-shadow: none;
 }
 input#q2:1_answer0{
 	    background: #FBC32E;
@@ -1714,18 +1722,18 @@ h6 {
 		text-decoration: none;
 }
 .block {
-background: #fff;
+    background: #FFF;
     padding-top: 0;
-    border-color: #DEDEDE!important;
-    border-radius: 5px;
+    border-color: rgba(25, 188, 123, 0.65);
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
 }
 .block .header {
-    background: #DEDEDE!important;
-    padding: 3px 4px;
-    border-bottom: 1px solid #DEDEDE!important;
+background: #19BC7B;
+    padding: 2px 2px;
+    border-bottom: 1px solid #19BC7B;
+    border-radius: 2px 0px 0px 0px;
 }
 .block .header h2 {
 		    font-weight: 700;
