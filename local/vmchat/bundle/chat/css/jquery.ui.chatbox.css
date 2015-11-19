@@ -1,5 +1,34 @@
 /* style sheets */
 /*css for chatbox*/
+@media screen and (max-width: 320px)
+.ui-chatbox {
+    position: relative;
+    bottom: 351px;
+    padding: 0px 0px 2px 0px;
+    border-bottom: none;
+    z-index: -1;
+    overflow: hidden;
+}
+@media screen and (max-width: 480px)
+.ui-chatbox {
+    position: relative;
+    bottom: 351px;
+    padding: 0px 0px 2px 0px;
+    border-bottom: none;
+    z-index: -1;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 768px)
+.ui-chatbox {
+    position: relative;
+    bottom: 318px;
+    padding: 0px 0px 2px 0px;
+    border-bottom: none;
+    z-index: -1;
+    overflow: hidden;
+}
+
 .ui-chatbox {
     position: relative;
     bottom:287px;
