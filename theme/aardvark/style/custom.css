@@ -3,6 +3,27 @@
  * @package   theme_aardvark
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ .navbar-fixed-top .navbar-inner, .navbar-static-top .navbar-inner {
+    border-width: 0;
+    background-size: 130px;
+    background-position-x: 350px;
+    background-position-y: 2px;
+    background-color: #273b47;
+}
+.usermenu .moodle-actionmenu .toggle-display .userbutton .usertext {
+    color: #FFFFFF;
+}
+.usermenu .moodle-actionmenu .toggle-display .userbutton .avatars img {
+    border-radius: 50px;
+}
+.jsenabled .usermenu .moodle-actionmenu .toggle-display.textmenu {
+    font-family: arial,sans-serif;
+    border-left: 10px solid #FFF;
+    font-weight: 700;
+    background: #006596;
+    font-size: 12px;
+    border-radius: 2px;
+}
  .row-fluid {
     max-width: 1170px;
     margin: 0 auto;
