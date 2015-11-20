@@ -3,6 +3,11 @@
  * @package   theme_aardvark
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ .row-fluid {
+    max-width: 1170px;
+    background: white;
+}
+ 
   @media only screen and (max-width: 767px)
 .Layout-careers {
     -webkit-column-count: 1;
