@@ -3,6 +3,11 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ .block .header .title h2 {
+    text-transform: none;
+    text-align: center;
+    font-weight: 500;
+}
  .jsenabled .usermenu .moodle-actionmenu .toggle-display.textmenu:hover {
     background: #7dcd40;
 }
