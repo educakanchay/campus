@@ -3,6 +3,24 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ .dir-ltr .usermenu {
+    float: right;
+    font-family: arial,sans-serif;
+    border-left: 10px solid #FFF;
+    font-weight: 700;
+    background: #006596;
+    font-size: 12px;
+    border-radius: 3px;
+    margin-top: 3px;
+}
+.dir-ltr .usermenu:hover {
+    background: #C31A98;
+    border-left: 10px solid #FC0;
+}
+
+.usermenu .login:hover {
+    color: white;
+}
  .course-content ul.topics li.section .summary {
     margin-left: 0px;
 }
