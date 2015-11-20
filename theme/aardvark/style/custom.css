@@ -3,7 +3,9 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
- 
+ .course-content .section-summary {
+    border: 0px solid #FFF;
+}
  .container-fluid {
     padding-right: 0px;
     padding-left: 0px;
