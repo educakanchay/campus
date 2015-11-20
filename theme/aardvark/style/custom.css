@@ -8,6 +8,8 @@
 }
  .course-content .section-summary .section-title {
     margin: 0px 0px 0px 0px;
+    text-align: center;
+    font-weight: bold;
 }
  .course-content ul.topics li.section .content, .course-content ul.weeks li.section .content {
     padding: 0;
