@@ -84,7 +84,7 @@
 }
  .row-fluid {
     max-width: 1170px;
-    margin: 0 auto;
+    /*margin: 0 auto;*/
 }
  
   @media only screen and (max-width: 767px)
