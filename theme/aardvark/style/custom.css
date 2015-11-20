@@ -3,6 +3,18 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ .course-content .section-summary .section-summary-activities .activity-count {
+    display: inline-block;
+    margin: 3px;
+    font-size: 11.9px;
+    color: #b36929;
+    white-space: nowrap;
+    background: #ffc33e;
+    border-radius: 3px;
+    padding: 0 2px;
+    border-bottom: 2px solid #f39c12;
+    font-weight: 700;
+}
  .course-content .section-summary .summarytext {
     margin: 0px 0px 0px 0px;
 }
