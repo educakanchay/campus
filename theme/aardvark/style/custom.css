@@ -3,6 +3,11 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ .course-content .section-summary .section-summary-activities .activity-count:hover {
+    background: #1DC500;
+    border-bottom: 2px solid #018804;
+    color: #0D8000;
+}
  .course-content .section-summary .section-summary-activities .activity-count {
     display: inline-block;
     margin: 3px;
@@ -22,6 +27,7 @@
     margin: 0px 0px 0px 0px;
     text-align: center;
     font-weight: bold;
+    border-radius: 10px 10px 0px 0px;
 }
  .course-content ul.topics li.section .content, .course-content ul.weeks li.section .content {
     padding: 0;
