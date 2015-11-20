@@ -3,6 +3,9 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ .course-content ul.topics li.section .summary {
+    margin-left: 0px;
+}
  .course-content .section-summary {
     border: 0px solid #FFF;
 }
