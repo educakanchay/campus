@@ -1,8 +1,20 @@
 /*
- * @author    Shaun Daubney
- * @package   theme_aardvark
+ * @author    Hilario Guzmzan
+ * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ .jsenabled .usermenu .moodle-actionmenu .toggle-display.textmenu:hover {
+    background: #7dcd40;
+}
+.container-fluid {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.navbar .brand {
+    color: white;
+    font-family: arial,sans-serif;
+    font-size: 18px;
+}
  .navbar-fixed-top .navbar-inner, .navbar-static-top .navbar-inner {
     border-width: 0;
     background-size: 130px;
