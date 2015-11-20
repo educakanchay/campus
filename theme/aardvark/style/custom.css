@@ -676,7 +676,12 @@ display:none;
 }
 
 h1#courseheader {
-	margin-bottom:20px;
+    margin-bottom: 0px;
+    background: #1ABC9C;
+    color: white;
+    font-size: 23px;
+    text-transform: uppercase;
+    padding-left: 10px;
 }
 
 /*img.iconsmall {
