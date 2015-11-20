@@ -3,6 +3,9 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ div#page {
+    background: white;
+}
  .course-content .section-summary .section-summary-activities .activity-count:hover {
     background: #1DC500;
     border-bottom: 2px solid #018804;
