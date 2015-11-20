@@ -289,7 +289,10 @@ font-size: 13px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-font-weight:normal;
+/*font-weight:normal;*/
+}
+h1, h2, h3 {
+    line-height: 0px;
 }
 
 .block .content h3 {
