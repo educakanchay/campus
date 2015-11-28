@@ -695,7 +695,7 @@ h1#courseheader {
     background: #1ABC9C;
     color: white;
     font-size: 23px;
-    text-transform: uppercase;
+     text-transform: capitalize;
     padding-left: 10px;
 }
 
