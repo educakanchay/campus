@@ -15,8 +15,8 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /*
- * @author    Shaun Daubney
- * @package   theme_aardvark
+ * @author    Hilario Guzman
+ * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -103,13 +103,7 @@ $haswikipedia = (!empty($PAGE->theme->settings->wikipedia));
 	</div>
 
 	<div class="footerlinks">
-	<p>
-	
-	<?php  
- echo html_writer::link('http://moodle.org/plugins/view.php?plugin=theme_aardvark', get_string('credit', 'theme_aardvark'));
- echo ' | ';
- echo html_writer::link('http://moodle.org', 'moodle.org');?> 
-    	</p>
+
     	
     
 	</div>
