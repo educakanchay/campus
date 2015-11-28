@@ -3,6 +3,31 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ img#yui_3_17_2_2_1448689178121_325 {
+    max-width: 100%;
+}
+div#yui_3_17_2_2_1448689178121_331 {
+    background: #D8EBFB;
+    color: #168BEF;
+    border-radius: 5px;
+    font-weight: bold;
+}
+div#yui_3_17_2_2_1448689178121_336 {
+    background: #F0FFDE;
+    color: #61A705;
+    border-radius: 5px;
+    font-weight: bold;
+}
+div#yui_3_17_2_2_1448689178121_346 {
+    background: #F9D5FF;
+    color: #A70CC1;
+    font-weight: bold;
+}
+div#yui_3_17_2_2_1448689178121_347 {
+    background: #DAFFEB;
+    color: #008A40;
+    font-weight: bold;
+}
  .coursebox .content .teachers, .coursebox .content .courseimage, .coursebox .content .coursefile {
     width: 0%;
 }
