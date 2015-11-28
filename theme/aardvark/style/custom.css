@@ -3,6 +3,14 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+li#yosoy {
+    background: #74D42C;
+    margin-right: 10px;
+    text-align: right;
+    width: 1170px;
+    margin: auto;
+    padding: 3px;
+}
 .path-grade-report-grader .gradeparent .user.cell .userpicture {
     border-radius: 50px;
 }
