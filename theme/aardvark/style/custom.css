@@ -3,8 +3,10 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-.right.side {
+.course-content ul.topics li.section .left, .course-content ul.topics li.section .right {
     width: 0px;
+    text-align: center;
+    padding: 6px 0;
 }
 
 .usermenu .login:hover {
