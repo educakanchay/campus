@@ -57,7 +57,8 @@
     font-weight: 500;
 }
  .jsenabled .usermenu .moodle-actionmenu .toggle-display.textmenu:hover {
-    background: #7dcd40;
+    background: #B30E97;
+    border-left: 10px solid #FFF700;
 }
 .container-fluid {
     max-width: 1170px;
