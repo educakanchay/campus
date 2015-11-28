@@ -3,6 +3,10 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ .coursebox .content .teachers, .coursebox .content .courseimage, .coursebox .content .coursefile {
+    width: 0%;
+}
+
 .course-content ul.topics li.section .left, .course-content ul.topics li.section .right {
     width: 0px;
     text-align: center;
