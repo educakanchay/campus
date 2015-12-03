@@ -17,8 +17,8 @@
 /**
  * Theme version info
  *
- * @package    theme_aardvark
- * @copyright  Shaun Daubney
+ * @package    theme_educacionbe
+ * @copyright  Hilario Guzman
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
