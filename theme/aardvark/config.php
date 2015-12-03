@@ -23,8 +23,8 @@
  * For full information about creating Moodle themes, see:
  * http://docs.moodle.org/dev/Themes_2.0
  *
- * @package   theme_aardvark
- * @authors   Shaun Daubney
+ * @package   theme_educacionbe
+ * @authors   Hilario Guzman
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
