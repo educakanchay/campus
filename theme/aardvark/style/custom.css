@@ -3,6 +3,11 @@
  * @package   theme_educacionbe
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+ /**/
+ img {
+    max-width: 100%;
+}
+ /**/
 html,body {
 background-color: #ECF0F1;
 font-family: 'open sans',sans-serif;
