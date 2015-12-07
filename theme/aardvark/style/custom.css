@@ -9,8 +9,8 @@
     border: none;
 }
 .dir-ltr .usermenu {
-    background: rgba(110, 31, 148, 0.99);
-    border-left: 7px solid yellow;
+    border-left: 7px solid #F42941;
+    background-color: #FFDB04;
 }
  .usermenu .moodle-actionmenu .toggle-display .userbutton .usertext {
     color: #FFFFFF;
