@@ -4,6 +4,24 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
  /**/
+ img.defaultuserpic {
+    border-radius: 50px;
+}
+.dir-ltr .usermenu {
+    background: rgba(110, 31, 148, 0.99);
+    border-left: 7px solid yellow;
+}
+ .usermenu .moodle-actionmenu .toggle-display .userbutton .usertext {
+    color: #FFFFFF;
+    font-size: 1.1em;
+}
+ .navbar .brand {
+    color: #FFF;
+    text-transform: uppercase;
+}
+ body {
+    font-size: 13px;
+}
  .navbar-fixed-top .navbar-inner, .navbar-static-top .navbar-inner {
     background: #273b47;
 }
