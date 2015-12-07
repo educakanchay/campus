@@ -6,6 +6,7 @@
  /**/
  img.defaultuserpic {
     border-radius: 50px;
+    border: none;
 }
 .dir-ltr .usermenu {
     background: rgba(110, 31, 148, 0.99);
