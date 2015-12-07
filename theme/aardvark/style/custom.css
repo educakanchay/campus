@@ -4,6 +4,9 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
  /**/
+ .navbar-fixed-top .navbar-inner, .navbar-static-top .navbar-inner {
+    background: #273b47;
+}
  img {
     max-width: 100%;
 }
