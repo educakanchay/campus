@@ -4,6 +4,9 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
  /**/
+ .usermenu .moodle-actionmenu .toggle-display .userbutton .avatars img {
+    border-radius: 50px;
+}
  img.defaultuserpic {
     border-radius: 50px;
     border: none;
