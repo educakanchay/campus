@@ -4,6 +4,15 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
  /**/
+ button, input.form-submit, input[type="button"], input[type="submit"], input[type="reset"], #notice .singlebutton + .singlebutton input, .submit.buttons input[name="cancel"] {
+    color: #fff;
+    text-shadow: none;
+    background: #7ECD40;
+    padding: 10px 16px;
+    border: 5px;
+    transition: background 0.5s;
+    border-bottom: 5px solid #58902D;
+}
  .usermenu .moodle-actionmenu .toggle-display .userbutton .avatars img {
     border-radius: 50px;
 }
